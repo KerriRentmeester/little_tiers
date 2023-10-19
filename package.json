@@ -1,5 +1,5 @@
 {
-  "name": "module_22 littletiers",
+  "name": "little-tiers",
   "version": "1.0.0",
   "description": "users little tiers app",
   "main": "http_server.js",
